@@ -1,0 +1,13 @@
+C:\Users\Василий\Desktop\Курсы по си\Aufgabe 3\Aufgabe 3\obj\Debug\netcoreapp3.1\Aufgabe 3.csprojAssemblyReference.cache
+C:\Users\Василий\Desktop\Курсы по си\Aufgabe 3\Aufgabe 3\obj\Debug\netcoreapp3.1\Aufgabe 3.AssemblyInfoInputs.cache
+C:\Users\Василий\Desktop\Курсы по си\Aufgabe 3\Aufgabe 3\obj\Debug\netcoreapp3.1\Aufgabe 3.AssemblyInfo.cs
+C:\Users\Василий\Desktop\Курсы по си\Aufgabe 3\Aufgabe 3\obj\Debug\netcoreapp3.1\Aufgabe 3.csproj.CoreCompileInputs.cache
+C:\Users\Василий\Desktop\Курсы по си\Aufgabe 3\Aufgabe 3\bin\Debug\netcoreapp3.1\Aufgabe 3.exe
+C:\Users\Василий\Desktop\Курсы по си\Aufgabe 3\Aufgabe 3\bin\Debug\netcoreapp3.1\Aufgabe 3.deps.json
+C:\Users\Василий\Desktop\Курсы по си\Aufgabe 3\Aufgabe 3\bin\Debug\netcoreapp3.1\Aufgabe 3.runtimeconfig.json
+C:\Users\Василий\Desktop\Курсы по си\Aufgabe 3\Aufgabe 3\bin\Debug\netcoreapp3.1\Aufgabe 3.runtimeconfig.dev.json
+C:\Users\Василий\Desktop\Курсы по си\Aufgabe 3\Aufgabe 3\bin\Debug\netcoreapp3.1\Aufgabe 3.dll
+C:\Users\Василий\Desktop\Курсы по си\Aufgabe 3\Aufgabe 3\bin\Debug\netcoreapp3.1\Aufgabe 3.pdb
+C:\Users\Василий\Desktop\Курсы по си\Aufgabe 3\Aufgabe 3\obj\Debug\netcoreapp3.1\Aufgabe 3.dll
+C:\Users\Василий\Desktop\Курсы по си\Aufgabe 3\Aufgabe 3\obj\Debug\netcoreapp3.1\Aufgabe 3.pdb
+C:\Users\Василий\Desktop\Курсы по си\Aufgabe 3\Aufgabe 3\obj\Debug\netcoreapp3.1\Aufgabe 3.genruntimeconfig.cache
